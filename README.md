@@ -1,4 +1,4 @@
-# Comparative-and-medical-genomics-TD4
+<img width="163" alt="image" src="https://github.com/TD-Genomics-ESBS/Comparative-and-medical-genomics-TD4/assets/82284705/2253d798-0b59-48be-8f0b-bd70678e616f"># Comparative-and-medical-genomics-TD4
 
 ## Structural variant
 Go to [dbVar](https://www.ncbi.nlm.nih.gov/dbvar/) (Database of Genomic Structural Variation) at NCBI.
@@ -7,21 +7,21 @@ Search the human TRPM1 gene, for that use the _dbVar Advanced Search Builder_.
 
 > :question: How many genomic variations listed in dbVar involve TRPM1 (in human)? What type of variants is the most represented? How many variants are pathogenic?
 
-Search the nsv1067795 variant.
+Search the nsv3924913 variant.
 
 > :question:  What is the size of the region involved in the variation?
 
-> :question: Can we specifically assign these phenotypes to the TRPM1 gene?
+> :question: Can we specifically assign these phenotypes to the TRPM1 gene? (in other words, this variant impact the TRPM1 gene?)
 
 > :question: On how many variant calls is this structural variant based?
 
 > :question: According to Genome view, is it the only structural variant in this genomic region? Display other studies using Genome view.
 
-> :question: Return to nsv1067795. What is the type (s) of variation for this variant?
+> :question: Return to nsv3924913. What is the type (s) of variation for this variant?
 
-> :question: Display "clinical assertions". What are the 3 links to ClinVar? What phenotypes are associated with the loss and gain of a copy (respectively)
+> :question: Display "clinical assertions". What are the 3 links to ClinVar? What phenotypes are associated with the loss and gain of a copy (respectively). For that open the link begining with VCV00...
 
-> Which bank do the HP:0001250, etc entries belong to:? Is the "Seizures" phenotype specific to a single disease?
+> :question: On [HPO](https://hpo.jax.org). Search phenotypes associated to loss of copy. Is the "Seizures" phenotype specific to a single disease?
 
 ## Small variants
 Go to [dbSNP](https://www.ncbi.nlm.nih.gov/snp/) (Database of Short Genetic Variations) at NCBI. 
