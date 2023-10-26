@@ -52,7 +52,7 @@ Search the human TRPM1 gene, for that use the _dbVar Advanced Search Builder_.
 
 ##### Ensembl
 
-In the Ensembl genome browser, display the TRPM1 gene and configure the page to display small variants from the 1000 genomes project.
+In the Ensembl genome browser, display the TRPM1 gene and configure the page to display small variants from the 1000 genomes project and phenotypes associated.
 
 For that, open the _Configure Page_ windows.
 - Open _Variation_: activate _1000 Genomes - All - short variants (SNPs and indels)_ and _1000 Genomes - All - common - short variants (SNPs and indels)_ (with _Normal_ style).
@@ -61,8 +61,6 @@ For that, open the _Configure Page_ windows.
 > :question: What can you say about the distribution of these variants? 
 
 > :question: What can you say about the location of variants associated to a phenotype?
-
-> :question: Display phenotypes associated to the TRPM1 gene in Ensembl (gene tab).
 
 > :question: What other phenotypes and diseases are associated to TRPM1 variants in human?
 
