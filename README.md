@@ -1,4 +1,4 @@
-<img width="163" alt="image" src="https://github.com/TD-Genomics-ESBS/Comparative-and-medical-genomics-TD4/assets/82284705/2253d798-0b59-48be-8f0b-bd70678e616f"># Comparative-and-medical-genomics-TD4
+# Comparative-and-medical-genomics-TD4
 
 ## Structural variant
 Go to [dbVar](https://www.ncbi.nlm.nih.gov/dbvar/) (Database of Genomic Structural Variation) at NCBI.
@@ -40,7 +40,9 @@ Search the human TRPM1 gene, for that use the _dbVar Advanced Search Builder_.
 
 > :question: What is the reference allele and the alternative one?
 
-> :question: What is the variant MAF in the 1000 genomes project? Can we speak of polymorphism? - What is the meaning of NM_001252020.1: c.413T>C?
+> :question: What is the variant MAF in the 1000 genomes project? Can we speak of polymorphism?
+
+> :question: What is the meaning of NM_001252020.1: c.413T>C?
 
 > :question: What is the functional consequence of this variant? Is it associated with type 1C CSNB? - Is this variant present in all tested populations?
 
