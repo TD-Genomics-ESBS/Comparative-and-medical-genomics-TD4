@@ -19,9 +19,9 @@ Search the nsv3924913 variant.
 
 > :question: Return to nsv3924913. What is the type (s) of variation for this variant?
 
-> :question: Display "clinical assertions". What are the 3 links to ClinVar? What phenotypes are associated with the loss and gain of a copy (respectively). For that open the link begining with VCV00...
+> :question: Display "clinical assertions". What are the 3 links to ClinVar? What are the clinical features observed in patient with this variation associated with the loss a copy ? For that open the link begining with VCV00...
 
-> :question: On [HPO](https://hpo.jax.org). Search phenotypes associated to loss of copy. Is the "Seizures" phenotype specific to a single disease?
+> :question: On [HPO](https://hpo.jax.org). Search phenotypes associated with the loss of copy. Is the "Seizures" phenotype specific to a single disease?
 
 ## Small variants
 Go to [dbSNP](https://www.ncbi.nlm.nih.gov/snp/) (Database of Short Genetic Variations) at NCBI. 
