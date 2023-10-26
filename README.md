@@ -68,7 +68,7 @@ For that, open the _Configure Page_ windows.
 
 The TRPM1 gene of patients with CSNB (and in some cases their families) has been sequenced to find causative mutations for this rare disease.
 
-> :question: Several mutations identified in patients were considered non-pathogenic (see table below). Using this table and the SNP database (NCBI), explain why these mutations are not pathogenic.
+> :question: Several mutations identified in patients were considered non-pathogenic (see table below). Using this table and the [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/) (NCBI), explain why these mutations are not pathogenic.
 
 | Exon | Nucleotide exchange | Allele state | Protein effect | SNP ID    | Control Alleles (Mut/WT)         |
 |------|---------------------|--------------|----------------|-----------|----------------------------------|
@@ -76,7 +76,5 @@ The TRPM1 gene of patients with CSNB (and in some cases their families) has been
 | 11   | c.1305G>A           |              | p.Thr435Thr    | rs1035705 |                                  |
 | 3    | c.161G>A            |              | p.Ser54Asn     | rs2241493 |                                  |
 | 27   | c.4123G>T           | het          | p.Glu1375X     | New       | 20/320                           |
-
-To find more informations about the two mutations already recorded in public database, use [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/).
 
 > :question: Mutations provided on Moodle were found in 3 patients and were considered as pathogenic. In each case, explain: why do they seem pathogenic, and the mode of transmission causing the disease.
